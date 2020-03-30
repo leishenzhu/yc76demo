@@ -10,7 +10,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	
-	\]\]]\<dependencies>
+	<dependencies>
 		<!-- eureka 注册服务器-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
